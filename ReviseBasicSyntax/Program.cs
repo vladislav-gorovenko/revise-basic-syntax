@@ -19,4 +19,4 @@ CodeRunner.Run(Basics.UsingArrays, false);
 CodeRunner.Run(Basics.MethodOverloading, false);
 
 // Revising OOP
-CodeRunner.Run(OOP.HelloOOP);
+CodeRunner.Run(OOP.CreatingSingleton);
