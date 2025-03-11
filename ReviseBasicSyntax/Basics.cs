@@ -176,7 +176,7 @@ public static class Basics
             Console.WriteLine($"A = {A}, B = {B}. Square = A * B = {A} * {B} = {Square()}");
         }
     }
-
+    
     public static void MethodOverloading()
     {
         Rectangle rectangle = new Rectangle(2, 3);
